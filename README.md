@@ -1,5 +1,5 @@
 # pd_patch_mplay
-Ce patch Pure Data est un lecteur audio multi-pistes qui permet de jouer jusqu'à 8 fichiers audio en parallèle avec des commandes de contrôle pour chaque piste.
+Ce patch Pure Data est un lecteur audio multi-pistes qui permet de jouer jusqu'à 8 fichiers audio en parallèle avec des commandes de contrôle pour chaque piste. Il a été implémenté par Ben Gaulon.
 Description
 
 Ce patch Pure Data est un lecteur de playlist permettant la lecture séquentielle ou non de fichiers audio (échantillons .wav). Il intègre une transition douce (crossfade) de 3 secondes entre les pistes, permettant un fondu enchaîné fluide entre les morceaux. Il offre aussi des commandes clavier pour arrêter ou changer de piste efficacement.
